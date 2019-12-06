@@ -1,4 +1,4 @@
 data/narray/** filter=lfs diff=lfs merge=lfs -text
 data/spherecenter/** filter=lfs diff=lfs merge=lfs -text
 SavedModel/** filter=lfs diff=lfs merge=lfs -text
-result/** filter=lfs diff=lfs merge=lfs -text
+
