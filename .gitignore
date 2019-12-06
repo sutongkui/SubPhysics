@@ -1,0 +1,11 @@
+
+# Default ignored files
+/workspace.xml
+.idea
+__pycache__/
+logs
+checkpoint
+data/obj/**
+data/simdata/**
+data/simdatacollision/**
+origintrainingdata/**
